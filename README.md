@@ -14,23 +14,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Qianli</h1>
-<h3 align="center">A passionate AI researcher and developer from China</h3>
+# Hi there 👋, I'm Qianli
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mqleet&label=Profile%20views&color=0e75b6&style=flat" alt="mqleet" /> </p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MqLeet.Mqleet&format=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mqleet" alt="mqleet" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+- 💻 I'm now a master student at [BCMI](https://bcmi.sjtu.edu.cn/), CSE Department, Shanghai Jiao Tong University.
+- 📖 My current research interests lie in deep generative models and self-supervised learning.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mqleet&show_icons=true&locale=en&layout=compact" alt="mqleet" /></p>
+## 👨🏻‍💻 Recently working on:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mqleet&show_icons=true&locale=en" alt="mqleet" /></p>
+- Controllable Image Generation
+- Fast Sampling for Diffusion Model
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mqleet&" alt="mqleet" /></p>
+## 📖 Education
+- M.Eng in Computer Science, 2022-2025
+
+    [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China
+
+- B.Eng in Automation and Control Engineering, 2018-2022
+
+    [Southeast University](https://www.seu.edu.cn/), Nanjing, Jinagsu, China
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/MqLeet/Mqleet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MqLeet&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MqLeet's GitHub Stats" height="150"/>
+</a>
+
+<a href="https://github.com/MqLeet/Mqleet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MqLeet&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MqLeet's GitHub Stats" height="150"/>
+</a>
 
