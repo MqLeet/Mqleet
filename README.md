@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 💻 I'm now a master student at [BCMI](https://bcmi.sjtu.edu.cn/), CSE Department, Shanghai Jiao Tong University.
+- 💻 I'm now a master student at [BCMI](https://bcmi.sjtu.edu.cn/), Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - 📖 My current research interests lie in deep generative models and self-supervised learning.
 
 ## 👨🏻‍💻 Recently working on:
