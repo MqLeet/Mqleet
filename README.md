@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - B.Eng in Automation and Control Engineering, 2018-2022
 
-    [Southeast University](https://www.seu.edu.cn/), Nanjing, Jiangsu, China
+    [Southeast University](https://www.seu.edu.cn/), Nanjing, China
 
 ## &#x1f4c8; GitHub Stats
 
