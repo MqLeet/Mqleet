@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 
 - 💻 I'm now a master student at [BCMI](https://bcmi.sjtu.edu.cn/), Department of Computer Science and Engineering, Shanghai Jiao Tong University.
-- 📖 My current research interests lie in deep generative models and vision-language models.
+- 📖 My current research interests lie in deep generative models. I am also interested in vision-language models.
 
 ## 👨🏻‍💻 Recently working on:
 
-- Controllable Image Generation
+- Video Generation
 - Fast Sampling for Diffusion Model
 
 ## 📖 Education
