@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 - Fast Sampling for Diffusion Model
 
 ## 📖 Education
-- M.Eng in Computer Science, 2022-2025
+- M.S. in Computer Science, 2022-2025
 
     [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China
 
-- B.Eng in Automation and Control Engineering, 2018-2022
+- B.S. in Automation and Control Engineering, 2018-2022
 
     [Southeast University](https://www.seu.edu.cn/), Nanjing, China
 
