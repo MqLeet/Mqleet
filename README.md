@@ -16,24 +16,21 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Qianli
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MqLeet.Mqleet&format=true)
 
-
-
-- 💻 I'm now a master student at [BCMI](https://bcmi.sjtu.edu.cn/), Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+- 💻 I'm now a master student at [BCMI Lab](https://bcmi.sjtu.edu.cn/), Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - 📖 My current research interests lie in deep generative models. I am also interested in vision-language models.
+- 📫 Feel free to contact me via mqlqianli1999@outlook.com, or mqlqianli@sjtu.edu.cn
 
 ## 👨🏻‍💻 Recently working on:
-
-- Video Generation
-- Fast Sampling for Diffusion Model
+- Generative AI, including Diffusion Models and LLMs
+- Vision-Language Models
 
 ## 📖 Education
-- M.S. in Computer Science, 2022-2025
+- M.Eng in Computer Science, 2022-2025
 
     [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China
 
-- B.S. in Automation and Control Engineering, 2018-2022
+- B.Eng in Automation and Control Engineering, 2018-2022
 
     [Southeast University](https://www.seu.edu.cn/), Nanjing, China
 
