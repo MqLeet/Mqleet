@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 💻 I'm now a master student at [BCMI Lab](https://bcmi.sjtu.edu.cn/), Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - 📖 My current research interests lie in deep generative models. I am also interested in vision-language models.
-- 📫 Feel free to contact me via mqlqianli1999@outlook.com, or mqlqianli@sjtu.edu.cn
+- 📫 Feel free to contact me via mqleet@gmail.com, or mqlqianli1999@outlook.com
 
 ## 👨🏻‍💻 Recently working on:
 - Generative AI, including Diffusion Models and LLMs
