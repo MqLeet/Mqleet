@@ -26,21 +26,21 @@ Here are some ideas to get you started:
 - MLLMs
 
 ## 📖 Education
-- M.Eng in Computer Science, 2022-2025
+- M.Eng. in Computer Science, 2022-2025
 
     [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China
 
-- B.Eng in Automation and Control Engineering, 2018-2022
+- B.Eng. in Automation and Control Engineering, 2018-2022
 
     [Southeast University](https://www.seu.edu.cn/), Nanjing, China
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MqLeet/Mqleet">
+<a href="https://github.com/MqLeet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MqLeet&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MqLeet's GitHub Stats" height="150"/>
 </a>
 
-<a href="https://github.com/MqLeet/Mqleet">
+<a href="https://github.com/MqLeet">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MqLeet&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MqLeet's GitHub Stats" height="150"/>
 </a>
 
