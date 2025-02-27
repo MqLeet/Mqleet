@@ -19,18 +19,19 @@ Here are some ideas to get you started:
 
 - 💻 I'm now a master student at [BCMI Lab](https://bcmi.sjtu.edu.cn/), Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - 📖 My current research interests lie in deep generative models. I am also interested in multimodal models.
+- 👯 I’m looking to collaborate on RL&Reasoning in LLMs or MLLMs.
 - 📫 Feel free to contact me via mqleet@gmail.com, or mqlqianli1999@outlook.com
 
 ## 👨🏻‍💻 Recently working on:
-- Generative AI, including Diffusion Models and LLMs
-- MLLMs
+- Generative AI, including Diffusion Models, LLMs and MLLMs
+- RL&Reasoning in MLLMs
 
 ## 📖 Education
 - M.Eng. in Computer Science, 2022-2025
 
     [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China
 
-- B.Eng. in Automation and Control Engineering, 2018-2022
+- B.Eng. in Instrument Science and Control Technology, 2018-2022
 
     [Southeast University](https://www.seu.edu.cn/), Nanjing, China
 
