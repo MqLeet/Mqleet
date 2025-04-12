@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm Qianli
 
 
-- 💻 I'm now a master student at [BCMI Lab](https://bcmi.sjtu.edu.cn/), Department of Computer Science and Engineering, Shanghai Jiao Tong University.
-- 📖 My current research interests lie in deep generative models. I am also interested in multimodal models.
+- 📖 I am a Ph.D. student at Shanghai Jiao Tong University, School of Artificial Intelligence. I got my master degree at [BCMI Lab](https://bcmi.sjtu.edu.cn/), Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+- 💻 My current research interests lie in deep generative models. I am also interested in multimodal models.
 - 👯 I’m looking to collaborate on RL&Reasoning in LLMs or MLLMs.
 - 📫 Feel free to contact me via mqleet@gmail.com, or mqlqianli1999@outlook.com
 
@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 - RL&Reasoning in MLLMs
 
 ## 📖 Education
+- Ph.D. in Artificial Intelligence, 2025-Now
+  
+    [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China
+
 - M.Eng. in Computer Science, 2022-2025
 
     [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China
