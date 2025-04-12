@@ -26,18 +26,7 @@ Here are some ideas to get you started:
 - Generative AI, including Diffusion Models, LLMs and MLLMs
 - RL&Reasoning in MLLMs
 
-## 📖 Education
-- Ph.D. in Artificial Intelligence, 2025-Now
-  
-    [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China
 
-- M.Eng. in Computer Science, 2022-2025
-
-    [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China
-
-- B.Eng. in Instrument Science and Control Technology, 2018-2022
-
-    [Southeast University](https://www.seu.edu.cn/), Nanjing, China
 
 ## &#x1f4c8; GitHub Stats
 
