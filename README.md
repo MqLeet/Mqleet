@@ -30,11 +30,4 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MqLeet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MqLeet&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MqLeet's GitHub Stats" height="150"/>
-</a>
-
-<a href="https://github.com/MqLeet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MqLeet&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="MqLeet's GitHub Stats" height="150"/>
-</a>
-
+[![MqLeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MqLeet&count_private=true&show_icons=true&theme=radical)](https://github.com/MqLeet)
