@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-[![MqLeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MqLeet&count_private=true&show_icons=true&theme=radical)](https://github.com/MqLeet)
+[![MqLeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MqLeet&count_private=true&show_icons=true&theme=holi)](https://github.com/MqLeet)
